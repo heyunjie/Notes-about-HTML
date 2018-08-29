@@ -1,3 +1,5 @@
 # Notes about HTML
 <br> : break two sentences
-Hey <br> bro!
+Hello <br> World!
+ <h1> Notes about HTML </h1>
+ I'm Roya and I love coding!
