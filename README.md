@@ -8,3 +8,6 @@ Hello <br> World!
  
  I do enjoy ths course and hope that my note can be helpful to everyone who also loves coding!
 </p>
+
+    <img src="https://curriculum-content.s3.amazonaws.com/web-development/FIS_New_Logo.png">
+    <img src="https://curriculum-content.s3.amazonaws.com/web-development/circle_logo.jpg">
