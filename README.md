@@ -1,4 +1,7 @@
 # Notes about HTML
+<html>
+<head>
+<body>
 <br> : break two sentences
 Hello <br> World!
  <h1> Notes about HTML </h1>
